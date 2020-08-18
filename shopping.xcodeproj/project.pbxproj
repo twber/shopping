@@ -13,6 +13,7 @@
 		ABA26DB124EA7F8F003E9872 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ABA26DAF24EA7F8F003E9872 /* Main.storyboard */; };
 		ABA26DB324EA7F91003E9872 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ABA26DB224EA7F91003E9872 /* Assets.xcassets */; };
 		ABA26DB624EA7F91003E9872 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ABA26DB424EA7F91003E9872 /* LaunchScreen.storyboard */; };
+		ABA26DC224EA9E99003E9872 /* martTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABA26DC124EA9E99003E9872 /* martTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		ABA26DB224EA7F91003E9872 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ABA26DB524EA7F91003E9872 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ABA26DB724EA7F91003E9872 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ABA26DC124EA9E99003E9872 /* martTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = martTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				ABA26DAB24EA7F8F003E9872 /* SceneDelegate.swift */,
 				ABA26DAD24EA7F8F003E9872 /* ViewController.swift */,
 				ABA26DAF24EA7F8F003E9872 /* Main.storyboard */,
+				ABA26DC124EA9E99003E9872 /* martTableViewController.swift */,
 				ABA26DB224EA7F91003E9872 /* Assets.xcassets */,
 				ABA26DB424EA7F91003E9872 /* LaunchScreen.storyboard */,
 				ABA26DB724EA7F91003E9872 /* Info.plist */,
@@ -140,6 +143,7 @@
 				ABA26DAE24EA7F8F003E9872 /* ViewController.swift in Sources */,
 				ABA26DAA24EA7F8F003E9872 /* AppDelegate.swift in Sources */,
 				ABA26DAC24EA7F8F003E9872 /* SceneDelegate.swift in Sources */,
+				ABA26DC224EA9E99003E9872 /* martTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
